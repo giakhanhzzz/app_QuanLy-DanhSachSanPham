@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 14",
+        "description": "Điện thoại mới",
+        "price": 999,
+        "stock": 11,
+        "image": "https://ongthotao.com/wp-content/uploads/2022/11/iphone-14-pro-max-tim-650x650-1.png"
+    },
+    {
+        "id": 2,
+        "name": "Samsung S23",
+        "description": "Màn hình AMOLED",
+        "price": 850,
+        "stock": 15,
+        "image": "https://channel.mediacdn.vn/428462621602512896/2023/11/13/photo-1-1699863832572261481414.png"
+    },
+    {
+        "id": 3,
+        "name": "TV",
+        "description": "65 Inch OLED S90D 4K Smart AI TV",
+        "price": 5000,
+        "stock": 5,
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/vn/qa65s90dakxxv/gallery/vn-oled-tv-qa65s90dakxxv-m-t-tr--c-542465553?$684_547_PNG$"
+    }
+]
